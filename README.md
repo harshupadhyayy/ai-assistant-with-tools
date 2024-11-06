@@ -3,12 +3,7 @@
 
 This is a proof of concept project for an LLM application with RAG and AI Agents.
 
-#### 1. The Chat_UI folder contains a chatbot UI built with React and Tailwind. 
-
-![Light Theme](/Pictures/white.png)
-![Dark Theme](/Pictures/dark.png)
-
-### 2. The endpoint can be deployed as a lambda function on Amazon with the following components:
+The endpoint can be deployed as a lambda function on Amazon with the following components:
 
 1. Agent Augmentation with [LlamaIndex](https://www.llamaindex.ai).
 
